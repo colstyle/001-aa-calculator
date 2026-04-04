@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+
+# Build artifacts & dist
+dist/
+src-tauri/target/
+*.exe
+*.apk
+*.msi
+
+# Android build cache
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.idea/
+android/*.iml
+
+# Env
+.env
+.env.local
+.env*.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tauri
+app-icon.png

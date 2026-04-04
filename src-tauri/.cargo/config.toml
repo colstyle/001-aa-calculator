@@ -1,0 +1,4 @@
+[build]
+# 将所有项目的编译产物集中到共享目录
+# 好处：1) 两个APP共享编译缓存 2) 防病毒路径固定 3) 不污染项目目录
+target-dir = "E:\\AIProjects\\.rust\\target"
