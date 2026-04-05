@@ -2,6 +2,7 @@ node_modules/
 .next/
 out/
 dist/
+build/
 src-tauri/target/
 *.exe
 *.apk
@@ -11,4 +12,4 @@ android/app/build/
 android/local.properties
 android/.idea/
 .env*
-app-icon.png
+.DS_Store

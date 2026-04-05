@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "identifier": "com.aiprojects.aa-calculator",
   "build": {
-    "beforeDevCommand": "npm run dev",
+    "beforeDevCommand": "",
     "devUrl": "http://localhost:3000",
     "beforeBuildCommand": "npm run build",
     "frontendDist": "../out"

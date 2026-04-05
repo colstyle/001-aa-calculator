@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🍽️ AA 计算器
+# Unknown App
 
-**多人聚餐分账，一秒搞定，支持 Web / Windows / Android 三端。**
+> (TODO - describe the user problem)
 
 ![100APP计划](https://img.shields.io/badge/100%20APP%20计划-001%20%2F%20100-ff6b6b?style=flat-square&logo=rocket)
 ![作者](https://img.shields.io/badge/作者-小石谈什么记-blueviolet?style=flat-square)
@@ -10,7 +10,7 @@
 ![平台](https://img.shields.io/badge/平台-Web%20%7C%20Windows%20%7C%20Android-brightgreen?style=flat-square)
 ![技术栈](https://img.shields.io/badge/技术栈-Next.js%2016%20%2B%20Tauri%202-blueviolet?style=flat-square)
 
-> 🚀 **100 APP 量产计划** 第 001 个作品 · 作者：[小石谈什么记](#)
+> 🚀 **100 APP 量产计划** 第 001 个作品 · Split bills in seconds · 作者：[小石谈什么记](#)
 
 </div>
 
@@ -18,11 +18,9 @@
 
 ## ✨ 功能特点
 
-- 👥 **人均平摊** — 填写总金额，自动除以人数，每人到账金额即刻显示
-- ✏️ **自定义金额** — 某人预先垫付了部分？单独填写，其余人均摊剩余差额
-- ➕ **动态添加人员** — 随时增减参与者，最少 2 人，人数不设上限
-- 📋 **一键复制账单** — 生成格式化账单文本，直接粘贴到微信群
-- 🌙 **深色界面** — 精心调校的深色配色，夜晚聚餐结账不刺眼
+(max 2)
+- Feature 1:
+- Feature 2 (optional):
 
 ---
 
@@ -129,6 +127,9 @@ cd android
 
 | 日期 | 内容 |
 |------|------|
+| 2026-04-04 | Project initialized |
+
+------|------|
 | 2026-04-04 | 项目初始化，完成 Web / Windows / Android 三端配置 |
 
 ---
